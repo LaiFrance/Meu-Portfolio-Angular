@@ -1,0 +1,22 @@
+#borderDemo {
+    margin-left: 40px;
+    margin-top: 5%;
+    padding: 50%;
+    width: 35%;
+    padding: 20px;
+    border: 25px outset #089bbb;
+    border-radius: 40px 0px 40px 0px;
+    }
+
+    .btn:not(:disabled):not(.disabled) {
+        cursor: pointer;
+        margin-left: 5%;
+        margin-top: 5%;
+    }
+
+    button.btn-purple {
+        
+        width: 100%;
+        padding: 10px;
+        background-color: rgba(7, 133, 152, 0.876);
+    }
