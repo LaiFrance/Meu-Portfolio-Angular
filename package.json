@@ -2,8 +2,7 @@
   "name": "portfolio",
   "version": "0.0.0",
   "engines": {
-    "node": "16.14.2",
-    "npm": "2.5.0"
+    "node": "16.14.2"
   },
   "scripts": {
     "ng": "ng",
